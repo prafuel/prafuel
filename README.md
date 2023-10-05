@@ -1,7 +1,7 @@
 ### Hi there 👋
 🌟 I'm **Prafull Sonawane - ML & Cybersecurity Enthusiast** 🌟
 
-                        ![](https://github.com/prafuel/prafuel/blob/main/giphy.gif)
+  ![](https://github.com/prafuel/prafuel/blob/main/giphy.gif)
 
 - 🎓 Currently pursuing a Bachelor's degree in **Artificial Intelligence and Data Science** at Vishwakarma Institute of Technology, Pune.
 - 📈 Passion for coding ignited during my academic journey.
