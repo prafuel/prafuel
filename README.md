@@ -1,5 +1,5 @@
 ### Hi there 👋
-🌟 I'm **Prafull Sonawane - ML & Cybersecurity Enthusiast** 🌟
+🌟 I'm **Prafull Sonawane - Techie** 🌟
 
 <div align=center><img src="https://github.com/prafuel/prafuel/blob/main/giphy.gif"></div>
 
