@@ -1,6 +1,6 @@
 # 💫 About Me:
 🎓 Currently Pursuing Bachelor's degree in Artificial Intelligence and Data Science at Vishwakarma Institute of Technology, Pune<br>🔒 Getting interest in Cybersecurity And Pentesting<br>✌️ Fun Fact : If our Vibe Matches i'm the best person you ever met
-
+<div align=center> <img src="https://github.com/prafuel/prafuel/blob/main/giphy.gif" alt="random_gif"></div>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/channels/951492125009256458) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/just_prafull/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/prafull-sonawane-79a401231/) 
