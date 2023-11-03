@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 Currently Pursuing Bachelor's degree in Artificial Intelligence and Data Science at Vishwakarma Institute of Technology, Pune<br>🔒 Getting interest in Cybersecurity And Pentesting<br>✌️ Fun Fact about me : If our Vibe Matches i'm the best person you ever met
+🎓 Currently Pursuing Bachelor's degree in Artificial Intelligence and Data Science at Vishwakarma Institute of Technology, Pune<br>🔒 Getting interest in Cybersecurity And Pentesting <br>✌️ Fun Fact about me : If our Vibe Matches i'm the best person you ever met
 <div align=center> <img src="https://github.com/prafuel/prafuel/blob/main/giphy.gif" alt="random_gif"></div>
 
 ## 🌐 Socials:
